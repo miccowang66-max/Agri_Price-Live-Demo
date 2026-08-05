@@ -1,0 +1,1 @@
+function e(e,t,n){if(!t)return`${e}年`;if(n){let[,t,r]=n.split(`-`);return`${e}年～${t}/${r}`}return`${e}年～目前`}export{e as t};
